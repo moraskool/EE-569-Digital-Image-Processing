@@ -2,21 +2,21 @@
  My homework submissions for the digital image processing class @ USC
  
  ## Homework 1 : 
-             ### Image Demosaicing (Bilinear Demosaicing) and Histogram Manipulation
-             ### Image Denoising 
-                 + Linear Filters (Uniform, Gaussian)
-                 + Bilinear Filters
-             ### Special Effect Imgage Filters (Oil painting Effect) 
+             1. Image Demosaicing (Bilinear Demosaicing) and Histogram Manipulation
+             2.  Image Denoising 
+                 * Linear Filters (Uniform, Gaussian)
+                 * Bilinear Filters
+             3.  Special Effect Imgage Filters (Oil painting Effect) 
              
              
  ## Homework 2 : 
-             Edge Detection (Canny, Sobel and Structured Edge)
-             Digital Half-toning
-             Half-toning with Error Diffusion
+             1. Edge Detection (Canny, Sobel and Structured Edge)
+             2. Digital Half-toning
+             3. Half-toning with Error Diffusion
              
              
  ## Homework 3 : 
-             Geometric Image Modification
-             Homographic Image Transformation and Image Stitching
-             Morphological Processing (Not implemented)
+             1. Geometric Image Modification
+             2. Homographic Image Transformation and Image Stitching
+             3. Morphological Processing (Not implemented)
  
