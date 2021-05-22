@@ -13,4 +13,10 @@
              Edge Detection (Canny, Sobel and Structured Edge)
              Digital Half-toning
              Half-toning with Error Diffusion
+             
+             
+ ## Homework 3 : 
+             Geometric Image Modification
+             Homographic Image Transformation and Image Stitching
+             Morphological Processing (Not implemented)
  
