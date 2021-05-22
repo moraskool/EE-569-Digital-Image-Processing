@@ -29,14 +29,17 @@
         + Bag of Words (using KMeans Classifier)
 ***  
 ## Homework 5  
- #### 1. CNN Training using LeNET-5
+ #### CNN Training using LeNET-5
          + MNIST DATASET
          + FASHION MNIST DATASET
          + CIFAR-10 DATASET
-## Homework 5  
- #### 1. CNN Training using LeNET-5
-         + MNIST DATASET
-         + FASHION MNIST DATASET
-         + CIFAR-10 DATASET
+## Homework 6  
+ #### 1. Feedforward designed Convolutional Neural Networks (FF-CNN)
+ #### 2. PixelHop and PixelHop++ (variations in using Swaab and CSwaab transforms)
+ #### 3. MNIST and FASHION-MNIST Classifications 
+         + Building the PixelHop
+         + Comparison between PixelHop and PixelHop++
+         + Error Analysis
+    
  
  
