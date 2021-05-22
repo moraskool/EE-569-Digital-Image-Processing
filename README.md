@@ -29,9 +29,9 @@
         + Bag of Words (using KMeans Classifier)
  ## Homework 5 : 
  #### 1. CNN Training using LeNET-5
- *MNIST* DATASET
- *FASHION MNIST* DATASET
- *CIFAR-10* DATASET
+         + *MNIST* DATASET
+         + *FASHION MNIST* DATASET
+         + *CIFAR-10* DATASET
  
  
  
